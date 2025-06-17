@@ -1,0 +1,9 @@
+[package]
+name = "fps-shooter_rust"
+version = "0.0.1"
+edition = "2024"
+
+[dependencies]
+godot-bevy = "0.7.0"
+bevy = { version = "0.16", default-features = false }
+godot = "0.3"
